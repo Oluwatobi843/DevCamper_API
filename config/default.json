@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Oluwatobi843:Chicharito14.@devcamper2.1ax48.mongodb.net/Devcamper=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "af307e50d3d3e9c83997",
+    "githubSecret": "388f6db101adfcf61b7ca379f3cf40a8e3bd66fe"
+}
